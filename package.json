@@ -5,7 +5,7 @@
   "version": "1.2.0",
   "publisher": "oijaz",
   "author": {
-    "name": "Omer Sheikh"
+    "name": "Omer Sheikh, amended by Tom Hirschowitz"
   },
   "repository": "oijazsh/unicode-latex",
   "engines": {
@@ -43,7 +43,8 @@
           "default": [
             "plaintext",
             "markdown",
-            "coq"
+            "coq",
+            "latex"
           ],
           "description": "Enable \\ completion for these extensions"
         }
@@ -58,6 +59,9 @@
   "devDependencies": {
     "@types/node": "^18.11.0",
     "@types/vscode": "^1.74.0",
-    "typescript": "^4.9.0"
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
   }
 }
