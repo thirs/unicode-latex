@@ -476,6 +476,7 @@ export const latexSymbols = {
     '\\BbbPi': 'ℿ',
     '\\Bbbpi': 'ℼ',
     '\\Colon': '∷',
+    '\\:': '∶',
     '\\Dashv': '⫤',
     '\\Delta': 'Δ',
     '\\Doteq': '≑',
