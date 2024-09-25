@@ -1066,7 +1066,6 @@ export const latexSymbols = {
     '\\dotplus': '∔',
     '\\dualmap': '⧟',
     '\\enspace': ' ',
-    '\\epsilon': 'ϵ',
     '\\eqcolon': '≕',
     '\\eqqless': '⪙',
     '\\eqqplus': '⩱',
@@ -1850,7 +1849,7 @@ export const latexSymbols = {
     '\\upoldkoppa': 'ϙ',
     '\\upuparrows': '⇈',
     '\\urtriangle': '◹',
-    '\\varepsilon': 'ɛ',
+    '\\varepsilon': 'ϵ',
     '\\varhexagon': '⬡',
     '\\varnothing': '∅',
     '\\veemidvert': '⩛',
@@ -2462,4 +2461,5 @@ export const latexSymbols = {
     '\\nVtwoheadrightarrowtail': '⤘',
     '\\nvtwoheadrightarrowtail': '⤗',
     '\\barleftarrowrightarrowbar': '↹',
+    '\\epsilon': 'ε',
 };
